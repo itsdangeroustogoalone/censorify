@@ -1,9 +1,17 @@
 {
     "author": "Carl Iknaian",
-    "name": "censorify",
+    "name": "itsdangerous_censorify",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/itsdangeroustogoalone/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
        "node": "*"
